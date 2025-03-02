@@ -12,9 +12,9 @@
     }
   ],
   "require": {
-    "php": "^8.1",
-    "laravelcollective/html": "^6.4",
-    "illuminate/support": "^10.0"
+    "php": "^8.2",
+    "laravellux/html": "^7.1",
+    "illuminate/support": "^10.0|^11.0|^12.0"
   },
   "require-dev": {
     "mockery/mockery": "^1.0",
