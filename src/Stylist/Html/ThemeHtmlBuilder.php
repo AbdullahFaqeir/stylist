@@ -1,7 +1,7 @@
 <?php
 namespace FloatingPoint\Stylist\Html;
 
-use Collective\Html\HtmlBuilder;
+use LaravelLux\Html\HtmlBuilder;
 use FloatingPoint\Stylist\Facades\StylistFacade;
 use Illuminate\Routing\UrlGenerator;
 
